@@ -1,0 +1,12 @@
+table#isotopeData {
+  border: 1px solid black;
+}
+
+table.wikitable {
+  border: 1px solid blue;
+}
+
+.wikitable td,
+.wikitable th {
+  border: 1px solid red;
+}
